@@ -1,0 +1,13 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "files.autoSave": "onFocusChange",
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.iconTheme": "vscode-great-icons",
+    "sync.gist": "9010758d1612a577245a0da0b0250d88",
+    "git.autofetch": true,
+    
+}

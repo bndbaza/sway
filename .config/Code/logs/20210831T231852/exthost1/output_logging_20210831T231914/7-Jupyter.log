@@ -1,0 +1,17 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-08-31 23:19:15: ZMQ install verified.
+Info 2021-08-31 23:19:15: id is 0814d214-4dbc-4921-b505-94c4aa0b2959
+Info 2021-08-31 23:19:15: Process Execution: > ~/.cache/pypoetry/virtualenvs/bss-m11HO53D-py3.9/bin/python -m pip list
+> ~/.cache/pypoetry/virtualenvs/bss-m11HO53D-py3.9/bin/python -m pip list
+Info 2021-09-01 00:09:33: Shutting down notebooks for cc0775bf-4e14-4c03-b7f4-f8a6cf735897
+Info 2021-09-01 00:09:33: Disposing HostJupyterExecution 926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Disposing super HostJupyterExecution 926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Disposing HostJupyterExecution 926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Finished disposing HostJupyterExecution  926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Disposing HostJupyterExecution 926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Finished disposing HostJupyterExecution  926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Getting live share API during dispose HostJupyterExecution 926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Detaching HostJupyterExecution 926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Cleaning up server cache 926f291f-00c0-4add-b439-c87b64235ee7
+Info 2021-09-01 00:09:33: Finished disposing HostJupyterExecution  926f291f-00c0-4add-b439-c87b64235ee7

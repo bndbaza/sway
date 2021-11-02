@@ -1,0 +1,12 @@
+[2021-08-29 01:13:14.257] [sharedprocess] [info] Deleted from disk ms-python.python /home/viktor/.vscode/extensions/ms-python.python-2021.8.1147840270
+[2021-08-29 01:13:17.781] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-08-29 01:13:21.159] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/viktor/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.8.3
+[2021-08-29 01:13:23.855] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-29 01:13:23.856] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210729T224923'
+[2021-08-29 01:13:24.346] [sharedprocess] [info] Extracted extension to /home/viktor/.vscode/extensions/.5a6b1335-cea0-4bd4-98d6-0f969ef5febc: ms-python.vscode-pylance
+[2021-08-29 01:13:24.355] [sharedprocess] [info] Renamed to /home/viktor/.vscode/extensions/ms-python.vscode-pylance-2021.8.3
+[2021-08-29 01:13:24.356] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-08-29 01:13:24.362] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-08-29 01:13:43.859] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-29 01:13:43.860] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-29 01:13:53.855] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

@@ -1,0 +1,26 @@
+2021/08/28-10:57:16.622 a48 Reusing MANIFEST /home/viktor/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/08/28-10:57:16.623 a48 Recovering log #60
+2021/08/28-10:57:16.630 a48 Reusing old log /home/viktor/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000060.log 
+2021/08/28-11:04:19.195 cf9 Level-0 table #64: started
+2021/08/28-11:04:19.236 cf9 Level-0 table #64: 2258977 bytes OK
+2021/08/28-11:04:19.238 cf9 Delete type=0 #60
+2021/08/28-11:04:19.240 cf9 Compacting 4@0 + 2@1 files
+2021/08/28-11:04:19.298 cf9 Generated table #65@0: 17 keys, 2646777 bytes
+2021/08/28-11:04:19.330 cf9 Generated table #66@0: 18 keys, 1209753 bytes
+2021/08/28-11:04:19.330 cf9 Compacted 4@0 + 2@1 files => 3856530 bytes
+2021/08/28-11:04:19.333 cf9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/08/28-11:04:19.333 cf9 Delete type=2 #54
+2021/08/28-11:04:19.333 cf9 Delete type=2 #55
+2021/08/28-11:04:19.333 cf9 Delete type=2 #57
+2021/08/28-11:04:19.333 cf9 Delete type=2 #59
+2021/08/28-11:04:19.333 cf9 Delete type=2 #61
+2021/08/28-11:04:19.333 cf9 Delete type=2 #64
+2021/08/28-11:12:21.231 d2c Level-0 table #68: started
+2021/08/28-11:12:21.264 d2c Level-0 table #68: 1451797 bytes OK
+2021/08/28-11:12:21.266 d2c Delete type=0 #63
+2021/08/28-11:18:53.389 d53 Level-0 table #70: started
+2021/08/28-11:18:53.421 d53 Level-0 table #70: 1381592 bytes OK
+2021/08/28-11:18:53.423 d53 Delete type=0 #67
+2021/08/28-11:23:54.644 d87 Level-0 table #72: started
+2021/08/28-11:23:54.667 d87 Level-0 table #72: 2039130 bytes OK
+2021/08/28-11:23:54.669 d87 Delete type=0 #69

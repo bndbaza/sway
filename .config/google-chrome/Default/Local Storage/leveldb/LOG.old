@@ -1,0 +1,6 @@
+2021/08/28-10:57:16.334 3 Reusing MANIFEST /home/viktor/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/08/28-10:57:16.334 3 Recovering log #3
+2021/08/28-10:57:16.335 3 Reusing old log /home/viktor/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2021/08/28-10:57:32.297 3 Level-0 table #5: started
+2021/08/28-10:57:32.320 3 Level-0 table #5: 16647 bytes OK
+2021/08/28-10:57:32.322 3 Delete type=0 #3

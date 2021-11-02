@@ -1,0 +1,6 @@
+2021/08/30-23:11:40.706 1054 Reusing MANIFEST /home/viktor/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/08/30-23:11:40.707 1054 Recovering log #4
+2021/08/30-23:11:40.720 1054 Reusing old log /home/viktor/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2021/08/30-23:14:24.361 114c Level-0 table #8: started
+2021/08/30-23:14:24.376 114c Level-0 table #8: 1286293 bytes OK
+2021/08/30-23:14:24.377 114c Delete type=0 #4

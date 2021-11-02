@@ -1,0 +1,26 @@
+2021/10/23-11:26:00.975 a76 Reusing MANIFEST /home/viktor/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/10/23-11:26:00.975 a76 Recovering log #71
+2021/10/23-11:26:00.981 a76 Reusing old log /home/viktor/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000071.log 
+2021/10/23-11:37:04.446 ff3 Level-0 table #75: started
+2021/10/23-11:37:04.495 ff3 Level-0 table #75: 2573060 bytes OK
+2021/10/23-11:37:04.497 ff3 Delete type=0 #71
+2021/10/23-11:37:04.499 ff3 Compacting 4@0 + 2@1 files
+2021/10/23-11:37:04.557 ff3 Generated table #76@0: 17 keys, 2650903 bytes
+2021/10/23-11:37:04.589 ff3 Generated table #77@0: 18 keys, 1218973 bytes
+2021/10/23-11:37:04.589 ff3 Compacted 4@0 + 2@1 files => 3869876 bytes
+2021/10/23-11:37:04.590 ff3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/10/23-11:37:04.590 ff3 Delete type=2 #65
+2021/10/23-11:37:04.591 ff3 Delete type=2 #66
+2021/10/23-11:37:04.591 ff3 Delete type=2 #68
+2021/10/23-11:37:04.591 ff3 Delete type=2 #70
+2021/10/23-11:37:04.591 ff3 Delete type=2 #72
+2021/10/23-11:37:04.591 ff3 Delete type=2 #75
+2021/10/23-11:45:06.605 106f Level-0 table #79: started
+2021/10/23-11:45:06.638 106f Level-0 table #79: 1460472 bytes OK
+2021/10/23-11:45:06.639 106f Delete type=0 #74
+2021/10/23-11:51:08.001 10ae Level-0 table #81: started
+2021/10/23-11:51:08.037 10ae Level-0 table #81: 1395551 bytes OK
+2021/10/23-11:51:08.039 10ae Delete type=0 #78
+2021/10/23-11:56:09.274 10ae Level-0 table #83: started
+2021/10/23-11:56:09.315 10ae Level-0 table #83: 2074724 bytes OK
+2021/10/23-11:56:09.317 10ae Delete type=0 #80

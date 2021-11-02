@@ -1,0 +1,29 @@
+{
+    "layer": "top",
+    "position": "top",
+    "modules-left": ["sway/workspaces", "sway/mode"],
+    "modules-center": ["tray"],
+    "modules-right": ["sway/language","pulseaudio","temperature","clock"],
+    "gtk-layer-shell": "true",
+    "clock": {
+        "format-alt": "{:%a, %d. %b  %H:%M}",
+        "tooltip": false 
+    },
+    "tray": {
+        "icon-size": 1 
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "tooltip": false,
+        "scroll-step": 5.0,
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", ""]
+        }
+    }
+}

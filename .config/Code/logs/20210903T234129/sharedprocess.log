@@ -1,0 +1,14 @@
+[2021-09-03 23:41:34.598] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-03 23:41:34.601] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-03 23:41:37.887] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/viktor/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.0
+[2021-09-03 23:41:37.890] [sharedprocess] [info] Downloaded extension: ms-python.python /home/viktor/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.9.1191016588
+[2021-09-03 23:41:41.058] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-03 23:41:41.058] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210729T230614'
+[2021-09-03 23:41:41.543] [sharedprocess] [info] Extracted extension to /home/viktor/.vscode/extensions/.8f0dede7-0f7d-478b-a0fd-e1a53cad7303: ms-python.python
+[2021-09-03 23:41:41.553] [sharedprocess] [info] Renamed to /home/viktor/.vscode/extensions/ms-python.python-2021.9.1191016588
+[2021-09-03 23:41:41.555] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-09-03 23:41:41.562] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-09-03 23:41:41.740] [sharedprocess] [info] Extracted extension to /home/viktor/.vscode/extensions/.a6b85cb0-8c0f-4658-b76d-32dd5e87c3de: ms-python.vscode-pylance
+[2021-09-03 23:41:41.744] [sharedprocess] [info] Renamed to /home/viktor/.vscode/extensions/ms-python.vscode-pylance-2021.9.0
+[2021-09-03 23:41:41.745] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-09-03 23:41:41.749] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

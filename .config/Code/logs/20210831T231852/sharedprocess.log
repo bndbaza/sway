@@ -1,0 +1,6 @@
+[2021-08-31 23:18:54.204] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/viktor/.vscode/extensions/ms-python.vscode-pylance-2021.8.2
+[2021-08-31 23:19:03.713] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-31 23:19:03.714] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210729T225546'
+[2021-08-31 23:19:23.713] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-31 23:19:23.714] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-31 23:19:33.713] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

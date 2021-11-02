@@ -1,0 +1,39 @@
+[2021-08-31 23:18:54.049] [exthost] [info] extension host started
+[2021-08-31 23:18:54.049] [exthost] [info] Skipping acquiring lock for /home/viktor/.config/Code/User/workspaceStorage/21459df46ccda2c4f1b0c3e4364ec507.
+[2021-08-31 23:18:54.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-08-31 23:18:54.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-08-31 23:18:54.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-31 23:18:54.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-31 23:18:54.117] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-31 23:18:54.117] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-08-31 23:18:54.142] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-08-31 23:18:54.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/viktor/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2021-08-31 23:18:54.184] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2021-08-31 23:18:54.184] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/viktor/.vscode/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2021-08-31 23:18:54.223] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":true,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"workspaceContains:pyproject.toml"}
+[2021-08-31 23:18:54.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/viktor/.vscode/extensions/ms-python.python-2021.8.1159798656/out/client/extension
+[2021-08-31 23:18:54.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-31 23:18:54.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-08-31 23:18:54.557] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-31 23:18:54.557] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-31 23:18:54.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-08-31 23:18:54.694] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-08-31 23:18:55.750] [exthost] [info] eager extensions activated
+[2021-08-31 23:18:55.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-31 23:18:55.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-31 23:18:55.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-31 23:18:55.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-31 23:18:55.838] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"api"}
+[2021-08-31 23:18:55.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/viktor/.vscode/extensions/ms-python.vscode-pylance-2021.8.3/dist/extension.bundle.js
+[2021-08-31 23:19:14.596] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django {"startup":false,"extensionId":{"value":"batisteo.vscode-django","_lower":"batisteo.vscode-django"},"activationEvent":"onLanguage:python"}
+[2021-08-31 23:19:14.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/viktor/.vscode/extensions/batisteo.vscode-django-1.6.0/out/extension
+[2021-08-31 23:19:14.632] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-08-31 23:19:14.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/viktor/.vscode/extensions/ms-toolsai.jupyter-2021.8.1236758218/out/client/extension
+[2021-08-31 23:30:18.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 23:30:18.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-08-31 23:30:18.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 23:30:18.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-08-31 23:30:18.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 23:30:18.387] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-01 00:09:33.874] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-01 00:09:34.905] [exthost] [info] exiting with code 0

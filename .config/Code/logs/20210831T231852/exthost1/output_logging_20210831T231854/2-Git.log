@@ -1,0 +1,276 @@
+Validating found git in: git
+Using git 2.33.0 from git
+> git rev-parse --git-dir
+Open repository: /home/viktor/BSS
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :blog/schemas.py
+> git ls-files --stage -- /home/viktor/BSS/blog/schemas.py
+> git cat-file -s f1e6fbfa89c81ee664815eb8183db36f8e24c7c5
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/database.py
+> git ls-files --stage -- /home/viktor/BSS/blog/database.py
+> git cat-file -s 3ff6587ba02fabbccb5544efe198a46908f9dabb
+> git show --textconv :blog/schemas.py
+> git ls-files --stage -- /home/viktor/BSS/blog/schemas.py
+> git cat-file -s f1e6fbfa89c81ee664815eb8183db36f8e24c7c5
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git show --textconv :blog/database.py
+> git ls-files --stage -- /home/viktor/BSS/blog/database.py
+> git cat-file -s 3ff6587ba02fabbccb5544efe198a46908f9dabb
+> git show --textconv :blog/schemas.py
+> git ls-files --stage -- /home/viktor/BSS/blog/schemas.py
+> git cat-file -s f1e6fbfa89c81ee664815eb8183db36f8e24c7c5
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/database.py
+> git ls-files --stage -- /home/viktor/BSS/blog/database.py
+> git cat-file -s 3ff6587ba02fabbccb5544efe198a46908f9dabb
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/schemas.py
+> git ls-files --stage -- /home/viktor/BSS/blog/schemas.py
+> git cat-file -s f1e6fbfa89c81ee664815eb8183db36f8e24c7c5
+> git show --textconv :blog/database.py
+> git ls-files --stage -- /home/viktor/BSS/blog/database.py
+> git cat-file -s 3ff6587ba02fabbccb5544efe198a46908f9dabb
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/database.py
+> git ls-files --stage -- /home/viktor/BSS/blog/database.py
+> git cat-file -s 3ff6587ba02fabbccb5544efe198a46908f9dabb
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/main.py
+From github.com:bndbaza/BSS
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :blog/database.py
+> git ls-files --stage -- /home/viktor/BSS/blog/database.py
+> git cat-file -s 3ff6587ba02fabbccb5544efe198a46908f9dabb
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s a083d8ae34dfcce80cb2ae23d5286dde67c1db4e
+> git show --textconv :blog/database.py
+> git ls-files --stage -- /home/viktor/BSS/blog/database.py
+> git cat-file -s 3ff6587ba02fabbccb5544efe198a46908f9dabb
+> git show --textconv HEAD:blog/main.py
+> git ls-tree -l HEAD -- /home/viktor/BSS/blog/main.py
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/viktor/BSS/blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git show --textconv :blog/main.py
+> git show --textconv :blog/main.py
+From github.com:bndbaza/BSS
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git show --textconv :blog/main.py
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git show --textconv :blog/main.py
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git show --textconv :blog/main.py
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git show --textconv :blog/main.py
+> git show --textconv :blog/main.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :blog/models.py
+> git ls-files --stage -- /home/viktor/BSS/blog/models.py
+> git cat-file -s 1c6bcca23b76e176a7a41f7bfc834c7682e5a266
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/.git/refs/remotes/origin/master', is most likely packed.
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git config --get commit.template
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/viktor/BSS/blog/main.py
+> git show --textconv :blog/main.py
+> git ls-files --stage -- /home/viktor/BSS/blog/main.py
+> git cat-file -s aeff9884bf40dba58aea0c6348a4ff3b15cd72de

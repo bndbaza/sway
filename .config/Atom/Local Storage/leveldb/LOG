@@ -1,0 +1,14 @@
+2021/08/30-23:11:39.749 1049 Reusing MANIFEST /home/viktor/.config/Atom/Local Storage/leveldb/MANIFEST-000001
+2021/08/30-23:11:39.750 1049 Recovering log #34
+2021/08/30-23:11:39.751 1049 Level-0 table #37: started
+2021/08/30-23:11:39.758 1049 Level-0 table #37: 123093 bytes OK
+2021/08/30-23:11:39.760 1049 Delete type=0 #34
+2021/08/30-23:11:39.761 107e Compacting 4@0 + 1@1 files
+2021/08/30-23:11:39.778 107e Generated table #39@0: 570 keys, 898571 bytes
+2021/08/30-23:11:39.778 107e Compacted 4@0 + 1@1 files => 898571 bytes
+2021/08/30-23:11:39.801 107e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/30-23:11:39.801 107e Delete type=2 #28
+2021/08/30-23:11:39.801 107e Delete type=2 #30
+2021/08/30-23:11:39.801 107e Delete type=2 #33
+2021/08/30-23:11:39.801 107e Delete type=2 #35
+2021/08/30-23:11:39.802 107e Delete type=2 #37

@@ -1,0 +1,37 @@
+{
+   "background": {
+      "scripts": [ "background/ga.js", "background/tag.js", "background/bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon_128.png",
+      "default_title": "Скачать музыку"
+   },
+   "content_scripts": [ {
+      "css": [ "content/content.css" ],
+      "js": [ "content/content.js", "content/md5.js" ],
+      "matches": [ "http://music.yandex.ru/*", "https://music.yandex.ru/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Скачивайте любые треки с популярного сервиса в хорошем качестве. Просто и удобно!",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "32": "images/icon_32.png",
+      "48": "images/icon_48.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjXVeljJgaVjci2Eo/OLapphBme67k4jqZDxcPnlD+hh7Q/EHrLNExhCkaKT7snM6a2jbl3rTIKjTn/3JCl+8IkCvT1N3j9OS5TcfKzpKoOH4FVW2jSdlFAUCdaZmZu3aH7Wq1W4uLPWUnQdumEPHNUbtaeL5SXELRVPsn51L/4fMfngTQqT3R8UfAsqiJsIDkBzsKpnoYzQedZQ08ZE3EmyUwaenUiX2Hx1KiA6tDF9jJO48Mossv2liRVrOdcEcn8zTZnOeC1ol4DZ2XzH8szXcqKr72IbVXq8vq6uHmyqiy0JWH1oJVHoAICUUOOv6+CPKsipUFybuXyhSf8fWmQIDAQAB",
+   "manifest_version": 2,
+   "name": "Скачать музыку",
+   "options_page": "options/options.html",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options/options.html"
+   },
+   "permissions": [ "tabs", "\u003Call_urls>", "storage", "downloads", "alarms" ],
+   "short_name": "Скачать",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3",
+   "web_accessible_resources": [ "images/*" ]
+}

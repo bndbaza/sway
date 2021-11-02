@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "punycode.js", "logger.js", "activity-monitor.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "*://*.tensor.ru/*", "*://*.sbis.ru/*", "*://sbis.ru/*", "*://*.saby.ru/*", "*://saby.ru/*", "*://xn--80appbun8c.xn--h1ahgajha2if.xn--p1ai/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Расширение браузера для работы со СБИС Плагин.",
+   "differential_fingerprint": "1.b70c5963efbe7d7719970b66c33f4df024251b5adf38158d2b1815588822ce3a",
+   "icons": {
+      "128": "sbisPlugin-logo-128.png",
+      "48": "sbisPlugin-logo-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsSShe6/TWZzTuaTgGdC6zvKoM1NsyLtl7uC6qhHc3Uxd2/22hGXni8ZnbIqXFwl63Zu8wlf94mAPSipu1J2kTSduaYme3HxIjN8QOeKZVAhRuDZgE06AqRXkrFatrsBZmmpAV33bpjK0rZELT9NCVu8pRIfSHI4eRZYnSc7qzn2rUyjp0mCIsgW65B2Zm+nG6ftb21pOJ6RE7kzPPjiGehSaajdwh3YAk8OxBJCY31KB519o3WyIl9wjLLS9UC1sBwDq91uolGmTNZC1W+xoVPy9cnG1LrdvSn8gu5nU+yzISG0vmqsNVyfK4OR7OncfPGl8BSAkmZvjJDCKj6gtHwIDAQAB",
+   "manifest_version": 2,
+   "name": "SBIS Plugin Extension",
+   "permissions": [ "storage", "tabs", "nativeMessaging", "*://*.tensor.ru/*", "*://*.sbis.ru/*", "*://sbis.ru/*", "*://*.saby.ru/*", "*://saby.ru/*", "*://xn--80appbun8c.xn--h1ahgajha2if.xn--p1ai/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "21.5104.5"
+}

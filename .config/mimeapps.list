@@ -1,0 +1,10 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-95KO60.desktop
+application/x-ms-dos-executable;application/x-wine-extension-msp;application/x-msi;application/x-msdos-program=PortProton.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-95KO60.desktop;
+image/jpeg=google-chrome.desktop;
+text/csv=visual-studio-code.desktop;
+application/x-shellscript=visual-studio-code.desktop;
+text/plain=visual-studio-code.desktop;

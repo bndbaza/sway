@@ -1,0 +1,6 @@
+2021/10/23-11:26:00.386 a78 Reusing MANIFEST /home/viktor/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/10/23-11:26:00.387 a78 Recovering log #4
+2021/10/23-11:26:00.390 a78 Reusing old log /home/viktor/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2021/10/23-12:36:04.491 12d9 Level-0 table #8: started
+2021/10/23-12:36:04.495 12d9 Level-0 table #8: 127414 bytes OK
+2021/10/23-12:36:04.498 12d9 Delete type=0 #4

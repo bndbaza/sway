@@ -1,0 +1,30 @@
+Info 2021-08-24 23:15:02: ZMQ install verified.
+Info 2021-08-24 23:15:02: id is d26caf8a-2dc2-4a4f-9eb0-ffe112c78a12
+Error 2021-08-24 23:15:02: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/viktor/BSS/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/viktor/BSS/.vscode/settings.json')
+	at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:158459)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/viktor/.vscode/extensions/ms-toolsai.jupyter-2021.8.1236758218/out/client/extension.js:90:560205)
+	at async g.fixSettingsFile (/home/viktor/.vscode/extensions/ms-toolsai.jupyter-2021.8.1236758218/out/client/extension.js:52:281266)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/viktor/.vscode/extensions/ms-toolsai.jupyter-2021.8.1236758218/out/client/extension.js:52:282986)] {
+  code: 'FileNotFound'
+}
+Info 2021-08-24 23:15:02: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+Info 2021-08-24 23:15:02: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+Info 2021-08-24 23:15:02: Process Execution: > /bin/python -c "import pip"
+> /bin/python -c "import pip"
+Info 2021-08-24 23:15:02: Process Execution: > /bin/python -c "import pip"
+> /bin/python -c "import pip"
+Info 2021-08-25 00:05:34: Shutting down notebooks for f47dc0fd-c1ed-4442-88dd-d31675a64999
+Info 2021-08-25 00:05:34: Disposing HostJupyterExecution 4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Disposing super HostJupyterExecution 4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Disposing HostJupyterExecution 4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Finished disposing HostJupyterExecution  4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Disposing HostJupyterExecution 4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Finished disposing HostJupyterExecution  4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Getting live share API during dispose HostJupyterExecution 4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Detaching HostJupyterExecution 4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Cleaning up server cache 4cb2768e-67dc-4cee-9bdd-d2244b11d5c3
+Info 2021-08-25 00:05:34: Finished disposing HostJupyterExecution  4cb2768e-67dc-4cee-9bdd-d2244b11d5c3

@@ -1,0 +1,25 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvs'
+Python interpreter path: /bin/python
+Error 2021-08-31 23:18:55: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/viktor/BSS/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/viktor/BSS/.vscode/settings.json')
+	at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:158459)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/viktor/.vscode/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:9:320331)
+	at async p.doesFileNeedToBeFixed (/home/viktor/.vscode/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:586718)
+	at async /home/viktor/.vscode/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:585845
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/viktor/.vscode/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:585791)
+	at async p.updateTestSettings (/home/viktor/.vscode/extensions/ms-python.python-2021.8.1159798656/out/client/extension.js:59:585418)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+> conda --version
+Python interpreter path: ~/.cache/pypoetry/virtualenvs/bss-m11HO53D-py3.9/bin/python
+Error 2021-09-01 00:09:33: Error while running worker[Worker 1]. undefined
+Error 2021-09-01 00:09:33: Error while running worker[Worker 2]. undefined

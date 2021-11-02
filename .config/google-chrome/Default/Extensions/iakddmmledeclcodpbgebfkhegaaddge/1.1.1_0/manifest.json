@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "ru",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "Icon128.png",
+      "16": "Icon16.png",
+      "48": "Icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApq6Q+ZF9aQ4RgEJ4lHY8o7YyL9iidV1D/Oivn456zaML/oa3Fciv16AmM0QaIpnE69vU5pflAzGAf0kgBYgN146eTPOsj8BpTStLGVZTLrXzIdBHcG95d0Gfj/EhANCncEy9bjF8cwweyG3zZpxlYYQRw7A+ILIL2PKFm9nbOJlZgGU/wYOOuidX+ethsN1sR68+ZqIlNiGpN3jRH5FVfiMR33ojF76iYUcTPk9Z0kLk35X1MioKajqyxIzO/BGyrrgkBS/Oy3QUX7lIU+bJoORQRNOQZxY3KMI+Cuo/Q+eGuikleCuZQ1WXX44m9lggAPTeGfDZ9bBeHqw7b23MaQIDAQAB",
+   "manifest_version": 2,
+   "name": "BIFIT Signer",
+   "permissions": [ "tabs", "nativeMessaging" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.1",
+   "web_accessible_resources": [ "manifest.json" ]
+}

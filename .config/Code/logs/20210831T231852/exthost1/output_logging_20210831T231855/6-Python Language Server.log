@@ -1,0 +1,4 @@
+[Info  - 11:18:56 PM] Pylance language server 2021.8.3 (pyright fa4194fd) starting
+[Info  - 11:18:56 PM] Server root directory: /home/viktor/.vscode/extensions/ms-python.vscode-pylance-2021.8.3/dist
+[Error - 11:18:56 PM] Pyproject file "/home/viktor/BSS/pyproject.toml" is missing "[tool.pyright] section.
+[Error - 11:19:08 PM] Pyproject file "/home/viktor/BSS/pyproject.toml" is missing "[tool.pyright] section.

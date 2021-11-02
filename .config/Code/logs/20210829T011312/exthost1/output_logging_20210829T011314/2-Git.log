@@ -1,0 +1,20 @@
+Validating found git in: git
+Using git 2.33.0 from git
+> git rev-parse --git-dir
+Open repository: /home/viktor/BSS/bss-message
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/viktor/BSS/bss-message/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :core/db.py
+> git ls-files --stage -- /home/viktor/BSS/bss-message/core/db.py
+> git cat-file -s a63d6f78d332ad638783497570f89621d9ddcf8e
+> git check-ignore -v -z --stdin
+> git show --textconv :bss/models.py
+> git ls-files --stage -- /home/viktor/BSS/bss-message/bss/models.py
+> git cat-file -s 6093a392c0d32dd2ce675666fa287e2e06e8a419

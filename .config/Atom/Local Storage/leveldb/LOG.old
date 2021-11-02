@@ -1,0 +1,9 @@
+2021/08/30-23:08:09.503 d86 Reusing MANIFEST /home/viktor/.config/Atom/Local Storage/leveldb/MANIFEST-000001
+2021/08/30-23:08:09.503 d86 Recovering log #29
+2021/08/30-23:08:09.503 d86 Reusing old log /home/viktor/.config/Atom/Local Storage/leveldb/000029.log 
+2021/08/30-23:10:11.385 edf Level-0 table #33: started
+2021/08/30-23:10:11.390 edf Level-0 table #33: 149365 bytes OK
+2021/08/30-23:10:11.391 edf Delete type=0 #29
+2021/08/30-23:11:11.383 edf Level-0 table #35: started
+2021/08/30-23:11:11.389 edf Level-0 table #35: 343045 bytes OK
+2021/08/30-23:11:11.391 edf Delete type=0 #32
